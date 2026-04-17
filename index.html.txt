@@ -1,0 +1,162 @@
+<p>
+    &lt;!DOCTYPE html&gt;
+</p>
+<p>
+    &lt;html lang="nl"&gt;
+</p>
+<p>
+    &lt;head&gt;
+</p>
+<p>
+      &lt;meta charset="UTF-8"&gt;
+</p>
+<p>
+      &lt;title&gt;Sven Manders | Illusionist&lt;/title&gt;
+</p>
+<p>
+      &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+</p>
+<p>
+      &lt;link rel="stylesheet" href="style.css"&gt;
+</p>
+<p>
+    &lt;/head&gt;
+</p>
+<p>
+    &lt;body&gt;
+</p>
+<p>
+    &lt;header&gt;
+</p>
+<p>
+      &lt;div class="logo"&gt;SVEN MANDERS&lt;/div&gt;
+</p>
+<p>
+      &lt;a href="#book" class="cta"&gt;Boek nu&lt;/a&gt;
+</p>
+<p>
+    &lt;/header&gt;
+</p>
+<p>
+    &lt;section class="hero"&gt;
+</p>
+<p>
+      &lt;video autoplay muted loop&gt;
+</p>
+<p>
+        &lt;source src="your-video.mp4" type="video/mp4"&gt;
+</p>
+<p>
+      &lt;/video&gt;
+</p>
+<p>
+      &lt;div class="hero-text"&gt;
+</p>
+<p>
+        &lt;h1&gt;Onverklaarbaar.&lt;/h1&gt;
+</p>
+<p>
+        &lt;h2&gt;Onvergetelijk.&lt;/h2&gt;
+</p>
+<p>
+        &lt;button onclick="scrollToBooking()"&gt;Boek Sven&lt;/button&gt;
+</p>
+<p>
+      &lt;/div&gt;
+</p>
+<p>
+    &lt;/section&gt;
+</p>
+<p>
+    &lt;section class="impact"&gt;
+</p>
+<p>
+      &lt;h2&gt;Dit is wat er gebeurt op jouw event&lt;/h2&gt;
+</p>
+<p>
+      &lt;p&gt;
+</p>
+<p>
+        Mensen die stilvallen. Gelach dat omslaat in verbazing.
+</p>
+<p>
+        En één vraag die blijft hangen: “Hoe dan?”
+</p>
+<p>
+      &lt;/p&gt;
+</p>
+<p>
+    &lt;/section&gt;
+</p>
+<p>
+    &lt;section class="highlights"&gt;
+</p>
+<p>
+      &lt;div&gt;Bedrijfsevents&lt;/div&gt;
+</p>
+<p>
+      &lt;div&gt;Bruiloften&lt;/div&gt;
+</p>
+<p>
+      &lt;div&gt;Exclusieve shows&lt;/div&gt;
+</p>
+<p>
+    &lt;/section&gt;
+</p>
+<p>
+    &lt;section id="book" class="booking"&gt;
+</p>
+<p>
+      &lt;h2&gt;Boek Sven&lt;/h2&gt;
+</p>
+<p>
+      &lt;form action="https://formspree.io/f/yourcode" method="POST"&gt;
+</p>
+<p>
+        &lt;input type="text" name="naam" placeholder="Naam" required&gt;
+</p>
+<p>
+        &lt;input type="email" name="email" placeholder="Email" required&gt;
+</p>
+<p>
+        &lt;input type="date" name="datum"&gt;
+</p>
+<p>
+        &lt;textarea name="bericht" placeholder="Vertel over je event"&gt;&lt;/textarea&gt;
+</p>
+<p>
+        &lt;button type="submit"&gt;Aanvraag versturen&lt;/button&gt;
+</p>
+<p>
+      &lt;/form&gt;
+</p>
+<p>
+      &lt;a href="https://wa.me/316XXXXXXXX" class="whatsapp"&gt;
+</p>
+<p>
+        Direct WhatsApp
+</p>
+<p>
+      &lt;/a&gt;
+</p>
+<p>
+    &lt;/section&gt;
+</p>
+<p>
+    &lt;footer&gt;
+</p>
+<p>
+      &lt;p&gt;© 2026 Sven Manders&lt;/p&gt;
+</p>
+<p>
+    &lt;/footer&gt;
+</p>
+<p>
+    &lt;script src="script.js"&gt;&lt;/script&gt;
+</p>
+<p>
+    &lt;/body&gt;
+</p>
+<p>
+    &lt;/html&gt;
+</p>
